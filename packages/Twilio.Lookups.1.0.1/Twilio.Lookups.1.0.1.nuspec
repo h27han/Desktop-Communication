@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Twilio.Lookups</id>
+    <version>1.0.1</version>
+    <authors>Twilio</authors>
+    <owners>Twilio</owners>
+    <licenseUrl>https://github.com/twilio/twilio-csharp/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>http://github.com/twilio/twilio-csharp</projectUrl>
+    <iconUrl>http://www.twilio.com/packages/company/img/logos_downloadable_round.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Twilio Lookups REST API helper library</description>
+    <releaseNotes>* 1.0.0 - Initial Release      
+      * 1.0.1 - Fix project framework version</releaseNotes>
+    <language>en-US</language>
+    <tags>REST SMS voice telephony phone twilio twiml</tags>
+    <dependencies>
+      <dependency id="Twilio" />
+    </dependencies>
+  </metadata>
+</package>
